@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.android.ide.eclipse.adt.feature:23.0.4.1468518"/>
+		<item value="com.android.ide.eclipse.adt.package.feature:23.0.2.1259578"/>
+		<item value="com.android.ide.eclipse.ddms.feature:23.0.4.1468518"/>
+		<item value="com.android.ide.eclipse.hierarchyviewer.feature:23.0.4.1468518"/>
+		<item value="com.android.ide.eclipse.traceview.feature:23.0.4.1468518"/>
+		<item value="org.eclipse.cdt.build.crossgcc:1.1.0.201302132326"/>
+		<item value="org.eclipse.cdt.debug.gdbjtag:7.0.0.201302132326"/>
+		<item value="org.eclipse.cdt.gdb:7.0.0.201302132326"/>
+		<item value="org.eclipse.cdt.launch.remote:6.0.0.201302132326"/>
+		<item value="org.eclipse.cdt.sdk:8.1.2.201302132326"/>
+		<item value="org.eclipse.cdt:8.1.2.201302132326"/>
+		<item value="org.eclipse.egit.mylyn:3.6.1.201501031845-r"/>
+		<item value="org.eclipse.egit.source:3.6.1.201501031845-r"/>
+		<item value="org.eclipse.egit:3.6.1.201501031845-r"/>
+		<item value="org.eclipse.emf.common:2.9.1.v20130827-0309"/>
+		<item value="org.eclipse.emf.ecore:2.9.1.v20130827-0309"/>
+		<item value="org.eclipse.help:1.4.1.v20120912-144938-8R7xFOXFLWUl7PpNBh_HIGkb4"/>
+		<item value="org.eclipse.jdt:3.8.2.v20130116-090414-8-8nFu3FNOfwKLRuqgXKIy9z0I83"/>
+		<item value="org.eclipse.jgit.java7:3.6.1.201501031845-r"/>
+		<item value="org.eclipse.jgit:3.6.1.201501031845-r"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.0.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.0.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.0.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn.commons:3.8.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn.context_feature:3.8.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn.discovery:3.8.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn.monitor:3.8.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn.team_feature:3.8.3.v20130107-0100"/>
+		<item value="org.eclipse.mylyn_feature:3.8.3.v20130107-0100"/>
+		<item value="org.eclipse.objectteams.otdt.core.patch:2.1.2.201301271217"/>
+		<item value="org.eclipse.platform:4.2.1.v20130118-173121-9MF7GHYdG0B5kx4E_SkfZV-1mNjVATf67ZAb7"/>
+		<item value="org.eclipse.rcp:4.2.2.v20130129-152330-7IARAABrMQkGSvMgQnUlz-DQz00h"/>
+		<item value="org.eclipse.rse.core:3.4.1.201302122026"/>
+		<item value="org.eclipse.rse.dstore:3.4.1.201302071946"/>
+		<item value="org.eclipse.rse.ftp:3.1.0.201302062102"/>
+		<item value="org.eclipse.rse.local:2.1.400.201302062104"/>
+		<item value="org.eclipse.rse.ssh:3.0.400.201205062159"/>
+		<item value="org.eclipse.rse.telnet:2.3.0.201205241511"/>
+		<item value="org.eclipse.rse.terminals:1.2.1.201301071106"/>
+		<item value="org.eclipse.rse.useractions:1.1.400.201301240456"/>
+		<item value="org.eclipse.rse:3.4.1.201302122026"/>
+		<item value="org.eclipse.tm.terminal.serial:2.1.200.201301070737"/>
+		<item value="org.eclipse.tm.terminal.ssh:2.1.200.201301080822"/>
+		<item value="org.eclipse.tm.terminal.telnet:2.1.200.201301080822"/>
+		<item value="org.eclipse.tm.terminal.view:2.4.1.201301031142"/>
+		<item value="org.eclipse.tm.terminal:3.2.2.201301071106"/>
+		<item value="org.eclipse.wst.xml_ui.feature:3.4.2.v201211061806-7H7GFeJDxumUrsn5qkiQgOEhsz0p60HAmPyU6VX"/>
+	</list>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="197" key="DIALOG_Y_ORIGIN"/>
+		<item value="202" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
